@@ -5,8 +5,8 @@ $(document).ready(function() {
 	const messageControl = $("#message");
 
 	setTimeout(function() {
-		const width = window.screen.width * window.devicePixelRatio;
-		const height = window.screen.height * window.devicePixelRatio;
+		const width = window.screen.width; 
+		const height = window.screen.height; 
 
 		heightInfoControl.text(`${height}px`);
 		widthInfoControl.text(`${width}px`);
