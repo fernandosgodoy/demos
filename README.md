@@ -6,6 +6,7 @@ What you'll find here? The list of projects:
 
 <ul>
     <li><a href="https://demo.luizfernandodev.com.br/detect-resolution" target="_blank">Detect Resolution</a></li>
+    <li><a href="https://demo.luizfernandodev.com.br/detect-resolution-with-device-ratio" target="_blank">Detect Resolution with Pixel Ratio</a></li>
 </ul>
 
 ## What tecnology I used here?
