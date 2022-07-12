@@ -7,3 +7,6 @@ What you'll find here? The list of projects:
 <ul>
     <li><a href="https://demo.luizfernandodev.com.br/detect-resolution" target="_blank">Detect Resolution</a></li>
 </ul>
+
+## What tecnology I used here?
+All projects of this repository are based in HTML5, CSS3 and Javascript (perhaps you'll find JQuery or another javascript framework too).
